@@ -14,7 +14,7 @@ A set of color scheme for code editor. Because of that it's modified from the co
    The color scheme for JetBrains PyCharm.
    
 ## Screenshot
-![python under Sublime Text](https://github.com/StdioA/Blackboard-Stdio/raw/master/screenshot/st_python.png)
+![python under Sublime Text](https://raw.githubusercontent.com/StdioA/Blackboard-Stdio/master/screenshot/st_python.jpg)
 
 
 ## 简介
